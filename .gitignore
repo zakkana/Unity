@@ -67,6 +67,3 @@ sysinfo.txt
 *.apk
 
 *.unitypackage
-
-# shortcat
-*.lnk
